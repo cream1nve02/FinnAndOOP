@@ -1,0 +1,21 @@
+# C++ Build Artifacts
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.lib
+*.dll
+*.exp
+*.out
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+x64/
+x86/
+Debug/
+Release/
